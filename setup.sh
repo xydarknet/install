@@ -13,6 +13,7 @@ echo
 
 # Update dan install paket dasar
 apt update -y && apt upgrade -y
+apt install git -y
 apt install -y curl wget figlet lolcat jq net-tools
 
 # Copy file menu
