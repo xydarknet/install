@@ -22,7 +22,7 @@ cp menu.sh /usr/bin/menu
 chmod +x /usr/bin/menu
 
 # Simpan info versi
-echo "1.2.5" > /etc/xydark-version
+echo "1.0.0" > /etc/xydark-version
 
 # Jalankan menu
 clear
