@@ -26,4 +26,4 @@ echo "1.0.0" > /etc/xydark-version
 
 # Jalankan menu
 clear
-menu
+#menu
